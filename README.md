@@ -4,5 +4,5 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of shared-project is to ...
+The ultimate goal of shared-project is to ...
 
